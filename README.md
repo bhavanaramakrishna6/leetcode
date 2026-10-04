@@ -12,3 +12,11 @@ This repository is ready for accepted solutions. Each problem can have its own f
 ## Connect automatic uploads
 
 Install [LeetHub-3.0](https://chromewebstore.google.com/detail/leethub-30/kdkgpjpenaeoodajljkflmlnkoihkmda), authorize it with GitHub, and choose this existing repository: `bhavanaramakrishna6/leetcode`.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0006-zigzag-conversion](https://github.com/bhavanaramakrishna6/leetcode/tree/main/0006-zigzag-conversion/) | Medium |
+<!---LeetCode Topics End-->
