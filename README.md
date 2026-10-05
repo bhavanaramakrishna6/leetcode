@@ -19,4 +19,13 @@ Install [LeetHub-3.0](https://chromewebstore.google.com/detail/leethub-30/kdkgpj
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/bhavanaramakrishna6/leetcode/tree/main/0006-zigzag-conversion/) | Medium |
+| [0856-score-of-parentheses](https://github.com/bhavanaramakrishna6/leetcode/tree/main/0856-score-of-parentheses/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0856-score-of-parentheses](https://github.com/bhavanaramakrishna6/leetcode/tree/main/0856-score-of-parentheses/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0856-score-of-parentheses](https://github.com/bhavanaramakrishna6/leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
