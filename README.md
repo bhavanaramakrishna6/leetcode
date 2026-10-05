@@ -28,4 +28,8 @@ Install [LeetHub-3.0](https://chromewebstore.google.com/detail/leethub-30/kdkgpj
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0856-score-of-parentheses](https://github.com/bhavanaramakrishna6/leetcode/tree/main/0856-score-of-parentheses/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0009-palindrome-number](https://github.com/bhavanaramakrishna6/leetcode/tree/main/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
