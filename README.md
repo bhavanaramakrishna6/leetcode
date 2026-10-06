@@ -31,6 +31,7 @@ Install [LeetHub-3.0](https://chromewebstore.google.com/detail/leethub-30/kdkgpj
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/bhavanaramakrishna6/leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/bhavanaramakrishna6/leetcode/tree/main/0009-palindrome-number/) | Easy |
 ## Array
 | Problem Name | Difficulty |
