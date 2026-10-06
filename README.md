@@ -32,4 +32,16 @@ Install [LeetHub-3.0](https://chromewebstore.google.com/detail/leethub-30/kdkgpj
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/bhavanaramakrishna6/leetcode/tree/main/0009-palindrome-number/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/bhavanaramakrishna6/leetcode/tree/main/0011-container-with-most-water/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/bhavanaramakrishna6/leetcode/tree/main/0011-container-with-most-water/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/bhavanaramakrishna6/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
