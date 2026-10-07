@@ -19,6 +19,7 @@ Install [LeetHub-3.0](https://chromewebstore.google.com/detail/leethub-30/kdkgpj
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/bhavanaramakrishna6/leetcode/tree/main/0006-zigzag-conversion/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/bhavanaramakrishna6/leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0856-score-of-parentheses](https://github.com/bhavanaramakrishna6/leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bhavanaramakrishna6/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Stack
@@ -49,4 +50,12 @@ Install [LeetHub-3.0](https://chromewebstore.google.com/detail/leethub-30/kdkgpj
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/bhavanaramakrishna6/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bhavanaramakrishna6/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/bhavanaramakrishna6/leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/bhavanaramakrishna6/leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 <!---LeetCode Topics End-->
