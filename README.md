@@ -37,6 +37,7 @@ Install [LeetHub-3.0](https://chromewebstore.google.com/detail/leethub-30/kdkgpj
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/bhavanaramakrishna6/leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/bhavanaramakrishna6/leetcode/tree/main/0009-palindrome-number/) | Easy |
+| [0836-rectangle-overlap](https://github.com/bhavanaramakrishna6/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,4 +59,8 @@ Install [LeetHub-3.0](https://chromewebstore.google.com/detail/leethub-30/kdkgpj
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/bhavanaramakrishna6/leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/bhavanaramakrishna6/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
