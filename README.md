@@ -22,16 +22,19 @@ Install [LeetHub-3.0](https://chromewebstore.google.com/detail/leethub-30/kdkgpj
 | [0301-remove-invalid-parentheses](https://github.com/bhavanaramakrishna6/leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0856-score-of-parentheses](https://github.com/bhavanaramakrishna6/leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bhavanaramakrishna6/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/bhavanaramakrishna6/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0856-score-of-parentheses](https://github.com/bhavanaramakrishna6/leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bhavanaramakrishna6/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/bhavanaramakrishna6/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0856-score-of-parentheses](https://github.com/bhavanaramakrishna6/leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bhavanaramakrishna6/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/bhavanaramakrishna6/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
