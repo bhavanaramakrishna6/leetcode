@@ -19,6 +19,7 @@ Install [LeetHub-3.0](https://chromewebstore.google.com/detail/leethub-30/kdkgpj
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/bhavanaramakrishna6/leetcode/tree/main/0006-zigzag-conversion/) | Medium |
+| [0013-roman-to-integer](https://github.com/bhavanaramakrishna6/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/bhavanaramakrishna6/leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0856-score-of-parentheses](https://github.com/bhavanaramakrishna6/leetcode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bhavanaramakrishna6/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -46,6 +47,7 @@ Install [LeetHub-3.0](https://chromewebstore.google.com/detail/leethub-30/kdkgpj
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/bhavanaramakrishna6/leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/bhavanaramakrishna6/leetcode/tree/main/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/bhavanaramakrishna6/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0836-rectangle-overlap](https://github.com/bhavanaramakrishna6/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/bhavanaramakrishna6/leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Array
@@ -79,6 +81,7 @@ Install [LeetHub-3.0](https://chromewebstore.google.com/detail/leethub-30/kdkgpj
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/bhavanaramakrishna6/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/bhavanaramakrishna6/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
