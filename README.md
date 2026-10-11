@@ -54,6 +54,7 @@ Install [LeetHub-3.0](https://chromewebstore.google.com/detail/leethub-30/kdkgpj
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/bhavanaramakrishna6/leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/bhavanaramakrishna6/leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/bhavanaramakrishna6/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/bhavanaramakrishna6/leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Two Pointers
@@ -87,4 +88,8 @@ Install [LeetHub-3.0](https://chromewebstore.google.com/detail/leethub-30/kdkgpj
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2784-check-if-array-is-good](https://github.com/bhavanaramakrishna6/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/bhavanaramakrishna6/leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 <!---LeetCode Topics End-->
