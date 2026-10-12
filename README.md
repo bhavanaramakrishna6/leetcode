@@ -56,6 +56,7 @@ Install [LeetHub-3.0](https://chromewebstore.google.com/detail/leethub-30/kdkgpj
 | [0011-container-with-most-water](https://github.com/bhavanaramakrishna6/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/bhavanaramakrishna6/leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/bhavanaramakrishna6/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/bhavanaramakrishna6/leetcode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/bhavanaramakrishna6/leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -67,6 +68,7 @@ Install [LeetHub-3.0](https://chromewebstore.google.com/detail/leethub-30/kdkgpj
 | [0011-container-with-most-water](https://github.com/bhavanaramakrishna6/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bhavanaramakrishna6/leetcode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/bhavanaramakrishna6/leetcode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/bhavanaramakrishna6/leetcode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,6 +86,7 @@ Install [LeetHub-3.0](https://chromewebstore.google.com/detail/leethub-30/kdkgpj
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/bhavanaramakrishna6/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/bhavanaramakrishna6/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/bhavanaramakrishna6/leetcode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,4 +95,8 @@ Install [LeetHub-3.0](https://chromewebstore.google.com/detail/leethub-30/kdkgpj
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/bhavanaramakrishna6/leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/bhavanaramakrishna6/leetcode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 <!---LeetCode Topics End-->
