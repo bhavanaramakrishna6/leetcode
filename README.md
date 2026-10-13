@@ -59,6 +59,7 @@ Install [LeetHub-3.0](https://chromewebstore.google.com/detail/leethub-30/kdkgpj
 | [2784-check-if-array-is-good](https://github.com/bhavanaramakrishna6/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/bhavanaramakrishna6/leetcode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/bhavanaramakrishna6/leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/bhavanaramakrishna6/leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,6 +72,7 @@ Install [LeetHub-3.0](https://chromewebstore.google.com/detail/leethub-30/kdkgpj
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/bhavanaramakrishna6/leetcode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/bhavanaramakrishna6/leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/bhavanaramakrishna6/leetcode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/bhavanaramakrishna6/leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,6 +96,7 @@ Install [LeetHub-3.0](https://chromewebstore.google.com/detail/leethub-30/kdkgpj
 | ------- | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/bhavanaramakrishna6/leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/bhavanaramakrishna6/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/bhavanaramakrishna6/leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
