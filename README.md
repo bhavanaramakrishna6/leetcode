@@ -82,6 +82,7 @@ Install [LeetHub-3.0](https://chromewebstore.google.com/detail/leethub-30/kdkgpj
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0133-clone-graph](https://github.com/bhavanaramakrishna6/leetcode/tree/main/0133-clone-graph/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/bhavanaramakrishna6/leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 ## Geometry
 | Problem Name | Difficulty |
@@ -91,6 +92,7 @@ Install [LeetHub-3.0](https://chromewebstore.google.com/detail/leethub-30/kdkgpj
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/bhavanaramakrishna6/leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0133-clone-graph](https://github.com/bhavanaramakrishna6/leetcode/tree/main/0133-clone-graph/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/bhavanaramakrishna6/leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/bhavanaramakrishna6/leetcode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 ## Sorting
@@ -115,4 +117,12 @@ Install [LeetHub-3.0](https://chromewebstore.google.com/detail/leethub-30/kdkgpj
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/bhavanaramakrishna6/leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0133-clone-graph](https://github.com/bhavanaramakrishna6/leetcode/tree/main/0133-clone-graph/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0133-clone-graph](https://github.com/bhavanaramakrishna6/leetcode/tree/main/0133-clone-graph/) | Medium |
 <!---LeetCode Topics End-->
