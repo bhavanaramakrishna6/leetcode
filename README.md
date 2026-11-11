@@ -51,6 +51,7 @@ Install [LeetHub-3.0](https://chromewebstore.google.com/detail/leethub-30/kdkgpj
 | [0836-rectangle-overlap](https://github.com/bhavanaramakrishna6/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/bhavanaramakrishna6/leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/bhavanaramakrishna6/leetcode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/bhavanaramakrishna6/leetcode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,6 +78,7 @@ Install [LeetHub-3.0](https://chromewebstore.google.com/detail/leethub-30/kdkgpj
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/bhavanaramakrishna6/leetcode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/bhavanaramakrishna6/leetcode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/bhavanaramakrishna6/leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/bhavanaramakrishna6/leetcode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
